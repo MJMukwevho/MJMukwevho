@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### So me in a nutshell:
+
+- 🔭 I’m currently learning concepts of Machine learning, particularly classification.
+- 🔭 I'm still figuring this cool GitHub feature.
+
+
+<img src="/Images/github.gif" alt="My cool logo"/>
+
+
+
 <!--
 **Mikovhe/Mikovhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
