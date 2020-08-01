@@ -6,7 +6,7 @@
 - 🔭 I'm still figuring this cool GitHub feature.
 
 
-<img src="/Images/github.gif" alt="My cool logo"/>
+<img src="/Images/github.jpg" alt="My cool logo"/>
 
 
 
