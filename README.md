@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning concepts of Machine learning, particularly classification.
 - 🔭 I'm still figuring this cool GitHub feature.
 
-![GitHub Logo](/images/github.jpg)
+![GitHub Logo](Images/github.jpg)
 
 
 
