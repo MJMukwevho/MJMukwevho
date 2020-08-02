@@ -5,8 +5,9 @@
 - 🔭 I’m currently learning concepts of Machine learning, particularly classification.
 - 🔭 I'm still figuring this cool GitHub feature.
 
+![GitHub Logo](/images/github.jpg)
 
-<img src="/Images/github.jpg" alt="My cool logo"/>
+
 
 
 
