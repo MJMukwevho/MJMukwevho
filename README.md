@@ -1,11 +1,14 @@
-### Hi there :raising_hand_man:
-My name is `Mukwevho Mukovhe Justice`, a data science enthusiast.
-I am problem solver: at times I do have a sense that I am the
-worlds best.
+# Hi there :raising_hand_man:
+My name is `Mukwevho Mukovhe Justice`, a data enthusiast. My
+plan is to tell the story hidden within<br/> the messy data, and
+to realize every dataset potential of bringing insights for
+better decision making<br/> with businesses and organizations.
+I am problem solver, at times I do have a sense that I am the<br/>
+worlds best. Here my [Linkedin page](https://www.linkedin.com/in/mukwevho-mukovhe-125069128/).
 
 
 
- Here is a table with some of my competancies:
+#### Here is a table with some of my competancies:
 
 Skill |Rating |Comment
 ------|-------|------
@@ -19,7 +22,7 @@ PowerBi|4.6|Just can't be perfect can I?
 - Practicing data preprocessing to get more out of the data
 - Doing more exploratory data analysis :detective:
 
-![commited to gihub](Images/github.jpg)
+![commited to gihub](github.jpg)
 
 ### Current interests and possible research areas in the near future
 
