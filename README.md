@@ -1,10 +1,11 @@
-# Hi there :raising_hand_man:
+<h1> Hi there :raising_hand_man:</h1>
 My name is `Mukwevho Mukovhe Justice`, a data enthusiast. My
-plan is to tell the story hidden within<br/> the messy data, and
-to realize every dataset potential of bringing insights for
-better decision making<br/> with businesses and organizations.
+goal is to tell the story hidden within<br/> the messy datasets, and
+to help realize every dataset potential of bringing insights for
+better decision making<br/> within businesses and organizations.
 I am problem solver, at times I do have a sense that I am the<br/>
-worlds best. Here my [Linkedin page](https://www.linkedin.com/in/mukwevho-mukovhe-125069128/).
+worlds best, other times I just fell that I am indeed the worlds best<br/>
+ Here my [Linkedin page](https://www.linkedin.com/in/mukwevho-mukovhe-125069128/).
 
 
 
