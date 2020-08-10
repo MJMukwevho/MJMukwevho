@@ -8,7 +8,7 @@ worlds best, other times I just feel that I am indeed the worlds best<br/>
 
 
 <html>
-  <img align="right" src="https://github.com/Mikovhe/Mikovhe/blob/master/Images/github.jpg" class="card-img" width="350" height="350"  alt="" />
+  <img align="right" src="https://github.com/Mikovhe/Mikovhe/blob/master/Images/moving.gif" class="card-img" width="350" height="350"  alt="" />
 </html>
 
 
