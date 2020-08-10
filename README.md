@@ -8,5 +8,10 @@ worlds best, other times I just feel that I am indeed the worlds best<br/>
 
 
 <html>
-  <img align="right" src="https://github.com/Mikovhe/Mikovhe/blob/master/Images/github.jpg" alt="" />
+  <img align="right" src="https://github.com/Mikovhe/Mikovhe/blob/master/Images/github.jpg" class="card-img" width="350" height="350"  alt="" />
 </html>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikovhe&show_icons=true&include_all_commits=true&theme=dark&hide=prs" alt="JShaikh's github stats" />
+</a>
