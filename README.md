@@ -3,7 +3,7 @@
 
 
 <html>
-  <img align="right" src="https://github.com/Mikovhe/Mikovhe/blob/master/github.jpg" class="card-img" width="350" height="350"  alt="" />
+  <img align="right" src="https://github.com/Mikovhe/Mikovhe/blob/master/Images/github.jpg" class="card-img" width="350" height="350"  alt="" />
 </html>
 
 
