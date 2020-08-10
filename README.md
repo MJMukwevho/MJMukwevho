@@ -4,10 +4,18 @@ goal is to tell the story hidden within<br/> the messy datasets, and
 to help realize every dataset potential of bringing insights for
 better decision making<br/> within businesses and organizations.
 I am problem solver, at times I do have a sense that I am the<br/>
-worlds best, other times I just fell that I am indeed the worlds best<br/>
-Here my [Linkedin page](https://www.linkedin.com/in/mukwevho-mukovhe-125069128/).
+worlds best, other times I just feel that I am indeed the worlds best<br/>
 
-![Movie_Recommendations](Images/datascientist.png)
+<html>
+      <img  src="Images/datascientist.png" class="card-img" width="550" height="350"  alt="" />
+</html>   
+
+
+
+
+
+
+Here my [Linkedin page](https://www.linkedin.com/in/mukwevho-mukovhe-125069128/).
 
 #### Here is a table with some of my competancies:
 
