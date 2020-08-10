@@ -1,6 +1,10 @@
-![Header](https://github.com/Mikovhe/Mikovhe/Images/blob/master/datascientist.png class="card-img" width="350" height="350"  alt=" " )
+![Header](https://github.com/Mikovhe/Mikovhe/blob/master/github.jpg class="card-img" width="350" height="350"  alt=" " )
 ## Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:
-\
+
+
+<html>
+  <img align="right" src="https://github.com/Mikovhe/Mikovhe/Images/github.gif" class="card-img" width="350" height="350"  alt="" />
+</html>
 
 
 
