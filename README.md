@@ -1,5 +1,5 @@
-![Header](Images/datascientist.png)
-## Aspiring Software Developer :coffee: | Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:
+![Header](https://github.com/Mikovhe/Mikovhe/Images/datascientist.png class="card-img" width="350" height="350"  alt="" )
+## Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:
 \
 
 
