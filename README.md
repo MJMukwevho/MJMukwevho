@@ -1,4 +1,4 @@
-# Hi there :raising_hand_man:
+# Hi there :raising_hand_man: This page is under construction
 My name is `Mukwevho Mukovhe Justice`, a data enthusiast. My
 goal is to tell the story hidden within<br/> the messy datasets, and
 to help realize every dataset potential of bringing insights for
@@ -14,4 +14,8 @@ worlds best, other times I just feel that I am indeed the worlds best<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikovhe&show_icons=true&include_all_commits=true&theme=dark&hide=prs" alt="JShaikh's github stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikovhe&layout=compact&theme=dark" />
 </a>
