@@ -7,7 +7,7 @@ I am problem solver, at times I do have a sense that I am the<br/>
 worlds best, other times I just feel that I am indeed the worlds best<br/>
 
 <html>
-      <img  src="Images/datascientist.png" class="card-img" width="550" height="350"  alt="" />
+      <img align="right" src="https://github.com/Mikovhe/Mikovhe/Images/datascientist.jpg" class="card-img" width="350" height="350"  alt="" />
 </html>   
 
 
