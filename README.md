@@ -3,6 +3,6 @@
 
 <html>
 A strong analytical thinker with a keen interest for problem solving and an avid learner with a track record of 
-delivering amazing and unique solutions to a problem.
+delivering amazing and unique solutions.
 </html>
 <br>
