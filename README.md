@@ -15,6 +15,5 @@ delivering amazing and unique solutions.
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%2344A834.svg?style=for-the-badge&logo=splunk&logoColor=ffdd54)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=compact&hide=html&theme=blue-green" alt="narenkhatwani" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=blue-green" alt="narenkhatwani" /><br/>
