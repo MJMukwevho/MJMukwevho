@@ -2,7 +2,7 @@
 
 <html>
 A strong analytical thinker with a keen interest for problem solving and an avid learner with a track record of 
-delivering amazing and unique solutions.
+delivering amazing end-to-end data solutions.
 </html>
 <br>
 
