@@ -14,6 +14,8 @@ delivering amazing end-to-end data solutions.
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%2344A834.svg?style=for-the-badge&logo=splunk&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/Docker-%2344A834.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Pyspark](https://img.shields.io/badge/Docker-%2344A834.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mikovhe&show_icons=true&theme=blue-green" alt="narenkhatwani" /><br/>
