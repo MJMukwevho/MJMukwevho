@@ -1,8 +1,7 @@
 # Hi there,  I am Mukovhe Mukwevho :raising_hand_man: 
 
 <html>
-A strong analytical thinker with a keen interest for problem solving and an avid learner with a track record of 
-delivering amazing end-to-end data solutions.
+A Data Engineer that explores different technologies so to add values using state-of-the-art data pipelines
 </html>
 <br>
 
@@ -14,7 +13,8 @@ delivering amazing end-to-end data solutions.
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%2344A834.svg?style=for-the-badge&logo=splunk&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/Docker-%2344A834.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Pyspark](https://img.shields.io/badge/Docker-%2344A834.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PySpark](https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+
 
 
 
