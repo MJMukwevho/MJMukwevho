@@ -1,5 +1,6 @@
-# Hi there,  I am Mukovhe Mukwevho :raising_hand_man: 
+# Hi there, I am Mukovhe Mukwevho :raising_hand_man:
 
+I am
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%2344A834.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -9,7 +10,5 @@
 ![Apache Airflow](https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%2344A834.svg?style=for-the-badge&logo=splunk&logoColor=ffdd54)
-
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MJMukwevho&show_icons=true&theme=blue-green" alt="MJMUKWEVHO" /><br/>
