@@ -1,6 +1,6 @@
 # Hi :raising_hand_man:
 
-Welcome to my GitHub page! I'm a passionate data engineer dedicated to designing and building scalable data pipelines and systems. Here, you'll find a collection of my projects, showcasing my expertise in data integration, transformation, and analysis. I am committed to following best practices in data engineering, version control, and documentation. Feel free to explore my repositories, contribute to ongoing projects, or reach out if you have any questions or collaboration ideas. Let's turn data into actionable insights together!
+Welcome to my GitHub page! I'm a passionate data engineer dedicated to designing and building scalable data pipelines and systems. Here, you'll find a collection of my projects, showcasing my expertise in data integration, transformation, and analysis. I am committed to following best practices in data engineering, version control, and documentation. Feel free to explore my repositories, contribute to ongoing projects, or reach out if you have any questions or collaboration ideas. Below are my most used technologies and skills. Let's turn data into actionable insights together!
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%2344A834.svg?style=for-the-badge&logo=docker&logoColor=white)
