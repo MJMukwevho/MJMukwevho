@@ -12,3 +12,4 @@ Welcome to my GitHub page! I'm a passionate data engineer dedicated to designing
 ![Splunk](https://img.shields.io/badge/Splunk-%2344A834.svg?style=for-the-badge&logo=splunk&logoColor=ffdd54)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MJMukwevho&show_icons=true&theme=blue-green" alt="MJMUKWEVHO" /><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJMukwevho&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight&langs_count=6" alt="Top Languages"/>
